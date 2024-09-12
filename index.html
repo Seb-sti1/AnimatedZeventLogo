@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Animated Zevent Logo</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+        }
+
+        .center {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+        }
+
+        .video {
+            width: 600px;
+        }
+
+        .footer {
+            display: flex;
+            flex-direction: row;
+            width: 500px;
+            justify-content: center;
+            bottom: 0;
+            position: absolute;
+        }
+
+        .footer a {
+            margin-left: 5px;
+            margin-right: 5px;
+            color: black;
+        }
+
+        .footer a:hover {
+            text-decoration: black;
+        }
+
+        .icon {
+            padding-top: 4px;
+            margin-left: 4px;
+            margin-right: 4px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="center">
+    <video controls autoplay class="video">
+        <source src="https://github.com/Seb-sti1/AnimatedZeventLogo/raw/master/src/anim.mp4" type="video/mp4">
+    </video>
+
+    <div class="footer">
+        Dev with ❤️ by
+        <a href="https://github.com/Seb-sti1" target="_blank">Seb-sti1</a>
+        -
+        <a href="https://github.com/Seb-sti1/AnimatedZeventLogo" target="_blank" rel="noopener noreferrer">
+            Source code
+        </a> on <i class="icon fa fa-github"></i>
+    </div>
+</div>
+
+</body>
+</html>
