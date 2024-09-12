@@ -13,8 +13,9 @@ of the logo for 2 frames (~4mins IRL).
 [animated_logo.ipynb](src/animated_logo.ipynb) is available under the MIT license.
 
 The [Zevent_logo.png](data/Zevent_logo.png) comes
-from [wikipedia](https://fr.wikipedia.org/wiki/Fichier:Zevent_logo.png),
-[dons2024-official.json](data/dons2024-official.json)`data/Zevent_logo.png` is the propriety of the Zevent.
+from [wikipedia](https://fr.wikipedia.org/wiki/Fichier:Zevent_logo.png) and 
+[dons2024-official.json](data/dons2024-official.json) comes
+from https://stats.zevent.fr/ and are the propriety of the Zevent.
 
 The [anim.mp4](src/anim.mp4) is a derivative work of [Zevent_logo.png](data/Zevent_logo.png),
 generated using [animated_logo.ipynb](src/animated_logo.ipynb).
