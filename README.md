@@ -6,7 +6,7 @@ of the logo for 2 frames (~4mins IRL).
 
 ## Result
 
-[anim.mp4](src/anim.mp4)
+[anim.mp4](src/anim.mp4), see the video [here](https://seb-sti1.github.io/AnimatedZeventLogo/).
 
 ## LICENSE
 
